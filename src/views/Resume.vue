@@ -30,14 +30,19 @@
         <h3>Solo game developer</h3>
         <h4>December 2024-Present</h4>
 
-        <div>Working on a 2D platformer autobattler with asynchronous Pvp.</div>
+        <div>Working on a 2D platformer autobattler with asynchronous Pvp in Unity,
+        <br />resulting from a data scraping of Steam's database and mixing two popular genres in a new genre.</div>
 
         <div class="tech-stack">Unity 6, C#, Aseprite, Playfab</div>
 
         <h3>Gameplay, Multiplayer and Tools developer- Gemelli Games</h3>
         <h4>March 2022-December 2024/May 2025-June 2025</h4>
 
-        <div>It's classified so I can't speak about it.</div>
+        <div>Designed and implemented core gameplay systems for a 1v1 turn-based RPG—including combat mechanics, AI behavior trees,
+        <br />progression systems, multiplayer architecture and a detached game engine.
+        <br />Led prototyping, playtest polish , and cross-departmental collaboration to deliver a balanced, engaging experience (90%+ Steam positive reviews)
+        <br />with ranked matchmaking (Glicko2) and streamlined content tools.
+        </div>
 
         <div class="tech-stack">Unity 2022, C#, Playfab, Fishnet</div>
 
@@ -46,9 +51,10 @@
         <h3>Professional esports player-Lille Esport</h3>
         <h4>January 2022-October 2022 / April 2025-May 2025</h4>
 
-        <div>It's classified so I can't speak about it.</div>
+        <div>Ranked top 300 on the EUW server (top 0.01%), achieved 2nd place in the French Div2 League,
+        <br />and earned MVP honors in multiple matches—showcasing elite strategic gameplay and competitive excellence.</div>
 
-        <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+        <div class="tech-stack">Communication, Competition, Teamwork</div>
 
         <h2>Skills</h2>
 
@@ -74,7 +80,7 @@
             <h3>Tools</h3>
             <SkillRate name="Rider" :rate="4" />
             <SkillRate name="Visual Studio" :rate="4" />
-            <SkillRate name="Git/Gitkraken" :rate="4" />
+            <SkillRate name="Git" :rate="4" />
             <SkillRate name="Jira" :rate="4" />
             <SkillRate name="Azure" :rate="3" />
         </div>

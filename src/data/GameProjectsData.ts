@@ -4,7 +4,7 @@ export default [
     new ProjectData("project-1", "Skygard Arena", "img/projects/project-1-icon.png", 
     `
     <div class="paragraph">
-     <strong>Optimistic Chubby</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
+     <strong>Skygard Arena</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
      <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
     </div>
     <div class="paragraph center">
