@@ -1,13 +1,30 @@
-name: Deploy to GitHub Pages
+name: Deploy Vue App to GitHub Pages
 
-on: [push]
+on:
+  push:
+    branches: [ main ] # or 'master' for older repos
+
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: actions/checkout@v4
-      - run: npm install && npm run build
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+    - uses: actions/checkout@v4
+    
+    - name: Install Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18' # Vue CLI works best with Node 16-18
+    
+    - name: Install dependencies
+      run: npm install
+    
+    - name: Build with Vue CLI
+      run: npm run build
+    
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist # Vue CLI's default build folder
+        keep_files: false # Clean existing files before deploy

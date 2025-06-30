@@ -11,6 +11,7 @@
     "vue": "^2.6.11",
     "vue-router": "^3.4.3"
   },
+  "homepage": "https://alanhanafi.github.io/Portfolio",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.33.0",
     "@typescript-eslint/parser": "^2.33.0",

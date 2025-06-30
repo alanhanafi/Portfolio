@@ -42,7 +42,9 @@ const routes: Array<RouteConfig> = [
 ]
 
 const router = new VueRouter({
-  routes
+    mode: 'history',
+    base: process.env.BASE_URL,  // This is crucial for GitHub Pages
+    routes
 })
 
 export default router
