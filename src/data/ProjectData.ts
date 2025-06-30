@@ -2,7 +2,7 @@ export default class ProjectData {
     id: string;
     name: string;
     htmlDescription: string;
-    iconUrl: string; // used as thumnail
+    iconUrl: string; // used as thumbnail
     isWide: boolean; // thumbnail will take 2 cols in the grid view
     isHigh: boolean; // thumbnail will take 2 rows in the grid view
     accentColor: string; // color of title bar 

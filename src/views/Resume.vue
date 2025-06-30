@@ -3,104 +3,130 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>John Matrix</strong>, a former Delta Force operative with lots of experience, lots of training and huge muscles.
-      <br />After graduating from kindergarten, I've been enrolled in the army for 25 years, where I learned to destroy things in an amazing number of ways.
-      <br />I joined the Delta Force because I thought it was Greek lessons, but I quickly adapted to this unexpected environment and became a key element.
-      <br />I love teamwork, but I can also go in solo depending on the mission requirements.
-      <br />
-      <br />Right now I'm trying to find inner peace after I've read some personal development books. I'm looking for a monk job so if you have any opportunity feel free to 
-      <router-link to="/contact">contact me</router-link>.
-      <br />
-      <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
+        I'm <strong>Alan Hanafi</strong>, a game developer currently based in Lille, France.
+        <br />After graduating as a computer science engineer in 2022, I've been working as a Unity developer for 3 years, but I'm open to any other engine.
+        <br />I joined Gemelli Games because I knew my future was in game development and I quickly adapted to the work environment to become a key element of the team for the past 3 years.
+        <br />I love teamwork, and I love working in small companies where everyone knows each other, and everyone's work matters.
+        <br />
+        <br />Right now I'm working as a solo gamedev on a <router-link to="/game-projects">New game</router-link>.
+        <br />
+        <br />Besides development, I'm passionate about video games, esports, and I love fantasy books, bouldering and traveling.
 
-      <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>
-        <div style="clear:both"></div>
-      </div>
+        <div style="margin-top:20px; margin-bottom:20px;">
+            <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
+            <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>
+            <div style="clear:both"></div>
+        </div>
     </div>
     <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of John" />
+      <img src="img/resume-photo.png" alt="Photo of Alan" />
     </div>
 
     <div style="clear:both"></div>
 
     <div class="full-content">
-      <h2>Work experience</h2>
+        <h2>Work experience</h2>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2018-2019</h4>
+        <h3>Solo game developer</h3>
+        <h4>December 2024-Present</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+        <div>Working on a 2D platformer autobattler with asynchronous Pvp.</div>
 
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+        <div class="tech-stack">Unity 6, C#, Aseprite, Playfab</div>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2015-2017</h4>
+        <h3>Gameplay, Multiplayer and Tools developer- Gemelli Games</h3>
+        <h4>March 2022-December 2024/May 2025-June 2025</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+        <div>It's classified so I can't speak about it.</div>
 
-      <div class="tech-stack">Even more Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2012-2015</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h2>Skills</h2>
-
-      <div class="skill-set">
-        <h3>Lethal</h3>
-        <SkillRate name="Handguns" :rate="5" />
-        <SkillRate name="Rifles" :rate="5" />
-        <SkillRate name="Shotguns" :rate="5" />
-        <SkillRate name="Machineguns" :rate="5" />
-        <SkillRate name="Missile launchers" :rate="5" />
-        <SkillRate name="Knives" :rate="5" />
-        <SkillRate name="Hand to hand combat" :rate="5" />
-      </div>
-
-      <div class="skill-set">
-        <h3>Non-lethal</h3>
-        <SkillRate name="Sneaking" :rate="1" />
-        <SkillRate name="Negotiation" :rate="1" />
-        <SkillRate name="Seduction" :rate="1" />
-        <SkillRate name="Sense of humor" :rate="2" />
-      </div>
-      <div style="clear:both" />
-
-      <h2>Education</h2>
-
-      <h3>Kindergarten - 1985</h3>
-      <h4>Kindergarten degree</h4>
-      <div>Specialty in bullying and fighting (58 wins, 58 K-O, 0 losses)</div>
-
-      <h2>Languages</h2>
-
-      <h3>American</h3>
-      <div>Basic knowledge but I know lots of one-liners</div>
-
-      <h3>That's it</h3>
-      <div>Who needs another language when you speak American?</div>
+        <div class="tech-stack">Unity 2022, C#, Playfab, Fishnet</div>
 
 
-      <h2>Besides...</h2>
-      <div>
-        <h3>I ❤️ Violence</h3>
-        <div>I find it really soothing to just shoot at bad guys</div>
 
-        <h3>I 🧡 Sports</h3>
-        <div>I used to be thin but then I ingested 10 kilos of steroids and proteins a day while doing 1000 push-ups.</div>
+        <h3>Professional esports player-Lille Esport</h3>
+        <h4>January 2022-October 2022 / April 2025-May 2025</h4>
 
-        <h3>I 💛 Politics</h3>
-        <div>I hope I can have a career here someday but I might have temper issues.</div>
+        <div>It's classified so I can't speak about it.</div>
 
-        <h3>I 💚 Flowers</h3>
-        <div>Especially the big ones, with the trunk and leaves.</div>
+        <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
 
-      </div>
+        <h2>Skills</h2>
+
+        <div class="skill-set">
+            <h3>Languages</h3>
+            <SkillRate name="C#" :rate="4" />
+            <SkillRate name="C++" :rate="3" />
+            <SkillRate name="Python" :rate="3" />
+            <SkillRate name="SQL" :rate="3" />
+            <SkillRate name="HTML" :rate="2" />
+            <SkillRate name="Caml" :rate="2" />
+        </div>
+
+        <div class="skill-set">
+            <h3>Game development</h3>
+            <SkillRate name="Unity" :rate="4" />
+            <SkillRate name="Fishnet" :rate="4" />
+            <SkillRate name="Unreal" :rate="3" />
+            <SkillRate name="Playfab" :rate="3" />
+        </div>
+
+        <div class="skill-set">
+            <h3>Tools</h3>
+            <SkillRate name="Rider" :rate="4" />
+            <SkillRate name="Visual Studio" :rate="4" />
+            <SkillRate name="Git/Gitkraken" :rate="4" />
+            <SkillRate name="Jira" :rate="4" />
+            <SkillRate name="Azure" :rate="3" />
+        </div>
+        <div style="clear:both" />
+
+        <h2>Education</h2>
+
+        <h3>ENSIIE - 2022</h3>
+        <h4>Computer science engineer</h4>
+        <div>Specialty in video games and numerical interactions</div>
+
+        <h3>Lycée Henri Wallon-2018</h3>
+        <h4>two-year higher education to prepare for engineering school entrance exams</h4>
+        <div>Specialty in math and physics</div>
+
+        <h3>Lycée Thérèse D'Avila-2016</h3>
+        <h4>Baccalaureate S</h4>
+        <div>Specialty in math</div>
+
+        <h2>Languages</h2>
+
+        <h3>English</h3>
+        <div>Fluent, practiced daily to speak with my canadian wife</div>
+
+        <h3>French</h3>
+        <div>No merit there, it's my mother tongue</div>
+
+        <h3>Spanish</h3>
+        <div>Some scholar knowledge from 6 years long classes</div>
+
+        <h3>Japanese</h3>
+        <div>Knows how to read Hiragana and Katakanas</div>
+
+
+
+        <h2>Besides...</h2>
+        <div>
+            <h3>I ❤️ Video Games</h3>
+            <div>Avid gamer since the gameboy color and Pokemon Red, I have evolved into a competitive games tryhard with thousand of hours in games like LOL (Challenger), TFT (Master), Hearthstone (Legend), Rocket League (Grand Champion).
+            <br>Also a big fan of indie games, JRPG and ARPG.
+            </div>
+            
+            <h3>I 🧡 Sports</h3>
+            <div>I love playing any sport with my friends but my favourite are bouldering, voleyball and kayaking.</div>
+
+            <h3>I 💛 Reading</h3>
+            <div>I mainly read fantasy books and mangas to make my commutes enjoyable.</div>
+
+            <h3>I 💚 Trips</h3>
+            <div>Poland, Canada, Japan, Morocco, Italy, Finland, USA,... and more to come !</div>
+
+        </div>
     </div>
   </div>
 </template>
