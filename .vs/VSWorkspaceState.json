@@ -2,12 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\public",
+    "\\public\\d",
+    "\\public\\img",
+    "\\public\\img\\projects",
     "\\src",
-    "\\src\\components",
+    "\\src\\css",
     "\\src\\data",
     "\\src\\router",
     "\\src\\views"
   ],
-  "SelectedNode": "\\src\\views\\About.vue",
+  "SelectedNode": "\\public\\img\\projects\\SkygardArena1.jpg",
   "PreviewInSolutionExplorer": false
 }
