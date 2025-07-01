@@ -23,6 +23,8 @@ export default [
         <li>Competitive stockfish-like Ai with different levels to satisfy every player</li>
         </ul>
     </div>
+    <div>I have covered technical challenges here : <a href="https://www.notion.so/Technical-challenges-in-Skygard-Arena-2231e979299680c08f65e899726252b7#2231e979299680aa8915f2c240de6d6a" target="_blank">Technical challenges</a>.
+    </div>
 
     <div class="paragraph center">
         <img class="pc-screenshot" src="img/projects/SkygardArenaGif2.gif" alt="Gif 1" />
@@ -33,7 +35,7 @@ export default [
         <img class="pc-screenshot" src="img/projects/SkygardArena4.jpg" alt="Image 4" />
     </div>
     `, "#23bd69", true),
-    new ProjectData("project-1", "Game tools", "img/projects/project-1-icon.png",
+    new ProjectData("project-1", "Game tools", "img/projects/tools.jpg",
         `
     <div class="paragraph">
         Tools I have designed and implemented on Skygard Arena:
@@ -52,12 +54,14 @@ export default [
         </li>
         </ul>
     </div>
-    `, "#23bd69", true),
+    <div>I have covered technical challenges here : <a href="https://www.notion.so/Technical-challenges-in-Skygard-Arena-2231e979299680c08f65e899726252b7#2231e979299680aa8915f2c240de6d6a" target="_blank">Technical challenges</a>.
+    </div>
+    `, "#808080", true),
     new ProjectData("project-2", "2D Platformer Autobattler", "img/projects/project-2-icon.png", `
     <div class="paragraph">
         This is my current solo game project, A 2D platformer autobattler.
         <br>The goal is to collect items around the map in a limited amount of time to create your build in order to face your opponent at the end of the timer
-        <br>and see which build is the best one !
+        and see which build is the best one !
     </div>
 
     <div class="paragraph">
@@ -69,92 +73,4 @@ export default [
         </ul>
     </div>
     `, "#5a78af", true),
-    /*new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
-    <div class="paragraph">
-        <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
-    </div>
-    <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-    </div>
-
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-    </div>
-    `, "#383838"),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
-    <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
-    </div>
-    
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        </div>
-    </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-    </div>
-    `, "#e80fb7"),
-    new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
-    <div class="paragraph">
-        <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
-    </div>
-    
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-    </div>`, "#e48246")*/
 ];
