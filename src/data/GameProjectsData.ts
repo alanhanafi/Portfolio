@@ -59,12 +59,16 @@ export default [
     <div>I have covered the technical challenges I faced here : <a href="https://www.notion.so/Technical-challenges-in-Skygard-Arena-2231e979299680c08f65e899726252b7#2231e979299680aa8915f2c240de6d6a" target="_blank">Technical challenges</a>.
     </div>
     `, "#808080", true),
-    new ProjectData("project-2", "2D Platformer Autobattler", "img/projects/project-2-icon.png", `
+    new ProjectData("project-2", "2D Platformer Autobattler", "img/projects/2DPlatformerInGameScreenshot.png", `
     <div class="paragraph">
         This is my current solo game project, A 2D platformer autobattler.
         <br>The goal is to collect items around the map in a limited amount of time to create your build in order to face your opponent at the end of the timer
         and see which build is the best one !
         <br>This project is teaching me a lot on all the aspects of game development, especially game design.
+    </div>
+
+    <div class="paragraph center">
+        <iframe class="youtube" src="https://www.youtube.com/embed/EZ2R4-Ssx-4?si=Y98UXv6jn-v0bec9" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
@@ -74,6 +78,11 @@ export default [
         <li>Multiple items to collect to create the best builds</li>
         <li>Find your own path, take a unique path to victory and show your speedrun skills</li>
         </ul>
+    </div>
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/2DPlatformerInGameScreenshot.png" alt="In Game" />
+        <img class="pc-screenshot" src="img/projects/StartGameScreen.png" alt="Start Game Screen" />
+        <img class="pc-screenshot" src="img/projects/EndGameScreen.webp" alt="End Game Screen" />
     </div>
     `, "#5a78af", true),
 ];

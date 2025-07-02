@@ -6,8 +6,7 @@ export default [
       I have been a pro league of legends player in 2022 playing in the second french division league
       <br/>and reached the challenger rank(top 300, top 0.01%) in the solo ranked queue in EUW.
       <br/>This experience taught me a lot on teamwork, problem solving and performance, as well as how to design and develop games to put players first.
-      <br/>I finished on the second place in the spring season, received multiple MVPs (Most Valuable Player) awards during the season and led multiple post-game interviews.
-      
+      <br/>I finished on the second place in the spring season, received multiple MVPs (Most Valuable Player) awards during the season and led multiple post-game interviews
       <br/>I stopped playing competitively in the end of 2022 to become a full time game developer, event though I kept playing some competitive matches when my previous team needed me in 2024 and 2025.
       <br/>Here are some links if you wish to know more about my competitive experience :
         <ul>
@@ -16,6 +15,13 @@ export default [
         <li><a href="https://lolpros.gg/player/alan" target="_blank">Solo ranked achievements</a></li>
         </ul>
 
+    <div class="paragraph center">
+        <img class="pc-screenshot" src="img/projects/MvpImage.jpg" alt="MVP" />
+        <img class="pc-screenshot" src="img/projects/MvpLil.jpg" alt="MVP" />
+        <img class="pc-screenshot" src="img/projects/ChallengerElo.png" alt="Challenger" />
+        <img class="pc-screenshot" src="img/projects/MvpOri.jpg" alt="MVP" />
+        <img class="pc-screenshot" src="img/projects/MvpPic.jpg" alt="MVP" />
+    </div>
       </div>
         <div>Post game interviews (Be careful, it's in french !) :
         <br/><iframe class="youtube" src="https://www.youtube.com/embed/g5yMHZSo084?si=jqFpdVl3mpeiUUUH&amp;start=3740" frameborder="0" allowfullscreen></iframe>
