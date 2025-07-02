@@ -8,7 +8,7 @@
     <ul>
       <li>
         <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
-        <a href="http://mywebsite.com" target="_blank">https://mywebsite.com</a>
+        <a href="https://alanhanafi.github.io/Portfolio/" target="_blank">https://alanhanafi.github.io/Portfolio/</a>
       </li>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>

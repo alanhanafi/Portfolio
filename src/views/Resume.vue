@@ -8,9 +8,9 @@
         <br />I joined Gemelli Games because I knew my future was in game development and I quickly adapted to the work environment to become a key element of the team for the past 3 years.
         <br />I love teamwork, and I love working in small companies where everyone knows each other, and everyone's work matters.
         <br />
-        <br />Right now I'm working as a solo gamedev on a <router-link to="/game-projects">New game</router-link>.
+        <br />Right now I'm working as a solo game developer on a <router-link to="/game-projects">2D platformer autobattler</router-link> in Unity.
         <br />
-        <br />Besides development, I'm passionate about video games, esports, and I love fantasy books, bouldering and traveling.
+        <br />Besides development, I'm passionate about video games, esports, and I love fantasy books, bouldering and kayaking.
 
         <div style="margin-top:20px; margin-bottom:20px;">
             <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>

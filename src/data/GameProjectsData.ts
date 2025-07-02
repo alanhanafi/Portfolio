@@ -6,6 +6,8 @@ export default [
     <div class="paragraph">
     Currently in early access, <strong>Skygard Arena</strong> is chess meets league of legends.
     It's a turn-based strategy, tactical skirmish game where you can climb the ladder in Pvp or complete missions in the campaign.
+    Since I joined the team of 2 at the time at the beginning on the project, I had the opportunity to work on almost all aspects of the game.
+    </br>From UI to matchmaking, my main focus has been working on gameplay logic, networking and creating tools for the team.
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/0Su2mpl5Ffo?si=wXxxQioD20iuYpLx" frameborder="0" allowfullscreen></iframe>
@@ -23,7 +25,7 @@ export default [
         <li>Competitive stockfish-like Ai with different levels to satisfy every player</li>
         </ul>
     </div>
-    <div>I have covered technical challenges here : <a href="https://www.notion.so/Technical-challenges-in-Skygard-Arena-2231e979299680c08f65e899726252b7#2231e979299680aa8915f2c240de6d6a" target="_blank">Technical challenges</a>.
+    <div>I have covered the technical challenges I faced here : <a href="https://www.notion.so/Technical-challenges-in-Skygard-Arena-2231e979299680c08f65e899726252b7#2231e979299680aa8915f2c240de6d6a" target="_blank">Technical challenges</a>.
     </div>
 
     <div class="paragraph center">
@@ -54,7 +56,7 @@ export default [
         </li>
         </ul>
     </div>
-    <div>I have covered technical challenges here : <a href="https://www.notion.so/Technical-challenges-in-Skygard-Arena-2231e979299680c08f65e899726252b7#2231e979299680aa8915f2c240de6d6a" target="_blank">Technical challenges</a>.
+    <div>I have covered the technical challenges I faced here : <a href="https://www.notion.so/Technical-challenges-in-Skygard-Arena-2231e979299680c08f65e899726252b7#2231e979299680aa8915f2c240de6d6a" target="_blank">Technical challenges</a>.
     </div>
     `, "#808080", true),
     new ProjectData("project-2", "2D Platformer Autobattler", "img/projects/project-2-icon.png", `
@@ -62,6 +64,7 @@ export default [
         This is my current solo game project, A 2D platformer autobattler.
         <br>The goal is to collect items around the map in a limited amount of time to create your build in order to face your opponent at the end of the timer
         and see which build is the best one !
+        <br>This project is teaching me a lot on all the aspects of game development, especially game design.
     </div>
 
     <div class="paragraph">
@@ -69,7 +72,7 @@ export default [
         <ul>
         <li>Procedural level generation for each run</li>
         <li>Multiple items to collect to create the best builds</li>
-        <li>Mecanical and strategic, compete to be fastest AND the smartest</li>
+        <li>Find your own path, take a unique path to victory and show your speedrun skills</li>
         </ul>
     </div>
     `, "#5a78af", true),
