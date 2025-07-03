@@ -13,7 +13,7 @@
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of Alan" /> 
+      <img src="img/projects/LIL_Alan_2022_Split_1.webp" alt="Avatar of Alan" /> 
     </div>
 
     <div style="clear:both"></div>

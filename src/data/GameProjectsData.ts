@@ -64,6 +64,7 @@ export default [
         <br>The goal is to collect items around the map in a limited amount of time to create your build in order to face your opponent at the end of the timer
         and see which build is the best one !
         <br>This project is teaching me a lot on all the aspects of game development, especially game design.
+        <br>Source code is available on <a href="https://github.com/alanhanafi/2D_PlatformAutoBattler" target="_blank">Github</a>.
     </div>
 
     <div class="paragraph center">

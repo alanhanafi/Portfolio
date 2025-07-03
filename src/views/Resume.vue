@@ -19,7 +19,7 @@
         </div>
     </div>
     <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of Alan" />
+      <img src="img/projects/LIL_Alan_2022_Split_1.webp" alt="Photo of Alan" />
     </div>
 
     <div style="clear:both"></div>
@@ -190,10 +190,10 @@ h4 {
   padding-bottom: 10px;
 }
 
-.photo img {
-  height: 300px;
-  width: 300px;
-}
+    .photo img {
+        margin-top: 50px;
+        text-align: center;
+    }
 
 .tech-stack {
   font-style: italic;
