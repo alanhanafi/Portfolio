@@ -42,17 +42,16 @@ export default [
     <div class="paragraph">
         Tools I have designed and implemented on Skygard Arena:
         <ul>
-        <li>A detached game engine to preview actions without having to run them in Unity.
-        <br>Used mainly for the AI search tree and the preview feature allowing to display all the effects of any action.
+        <li>A detached game engine to run the game logic and preview actions.
+        <br>Used mainly for the AI search tree and the preview feature allowing to display all the effects of an action.
         <img class="pc-screenshot" src="img/projects/SkygardArena2.jpg" alt="Image 2" />
         </li>
         <li>A sandbox mode to help the team testing new features, animations, VFX and QA.
-        <br>This mode contains features such as : killing units, refresh actions and movements, spawn new units, enable/disable UI elements.
-        Insert a Sandbox Gif.
-        <img class="pc-screenshot" src="img/projects/SkygardArenaGif2.gif" alt="Gif 1" />
+        </br>This mode contains features such as : killing units, refresh actions and movements, spawn new units, enable/disable UI elements.
+        </br><img class="pc-screenshot" src="img/projects/SandboxTool.gif" alt="Sandbox" />
         </li>
-        <li>A visual finite state machine for Pve missions and tutorials, allowing flexibility and fast prototyping for each mission.
-        Insert a FSM Gif.
+        <li>A visual finite state machine tool for Pve missions and tutorials, allowing flexibility and fast prototyping for each mission.
+        </br><img class="pc-screenshot" src="img/projects/PveMissionTool.gif" alt="Pve tool" />
         </li>
         </ul>
     </div>
