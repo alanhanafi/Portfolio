@@ -119,18 +119,18 @@
         <h2>Besides...</h2>
         <div>
             <h3>I ❤️ Video Games</h3>
-            <div>Avid gamer since the gameboy color and Pokemon Red, I have evolved into a competitive games tryhard with thousand of hours in games like LOL (Challenger), TFT (Master), Hearthstone (Legend), Rocket League (Grand Champion).
+            <div>Avid gamer since the gameboy color and Pokemon Red, I have evolved into a competitive games tryharder with thousands of hours in games like LOL (Challenger), TFT (Master), Hearthstone (Legend), Rocket League (Grand Champion).
             <br>Also a big fan of indie games, JRPG and ARPG.
             </div>
             
             <h3>I 🧡 Sports</h3>
-            <div>I love playing any sport with my friends but my favourite are bouldering, voleyball and kayaking.</div>
+            <div>I love playing any sport with my friends but my favourite are bouldering, kayaking and volleyball.</div>
 
             <h3>I 💛 Reading</h3>
             <div>I mainly read fantasy books and mangas to make my commutes enjoyable.</div>
 
             <h3>I 💚 Trips</h3>
-            <div>Poland, Canada, Japan, Morocco, Italy, Finland, USA,... and more to come !</div>
+            <div>Poland, Canada, Japan, Morocco, Italy, Finland, USA, Spain, South Korea,... and more to come !</div>
 
         </div>
     </div>

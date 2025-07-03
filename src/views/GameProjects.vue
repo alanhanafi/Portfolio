@@ -3,7 +3,7 @@
     <h1>Games</h1>
 
     <div style="margin-bottom: 30px;">
-        Here are some games I've created, either as a team, or solo using Unity.
+        Here are some games I've created, either with a team, or solo using Unity.
     </div>
 
     <ProjectsList v-bind:projects="projects" />

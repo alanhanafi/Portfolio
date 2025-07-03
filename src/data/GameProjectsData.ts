@@ -7,7 +7,7 @@ export default [
     Currently in early access, <strong>Skygard Arena</strong> is chess meets league of legends.
     It's a turn-based strategy, tactical skirmish game where you can climb the ladder in Pvp or complete missions in the campaign.
     Since I joined the team of 2 at the time at the beginning on the project, I had the opportunity to work on almost all aspects of the game.
-    </br>From UI to matchmaking, my main focus has been working on gameplay logic, networking and creating tools for the team.
+    </br>From prototype to release, my main focus has been working on gameplay logic, networking and creating tools for the team.
     </div>
     <div class="paragraph center">
         <iframe class="youtube" src="https://www.youtube.com/embed/0Su2mpl5Ffo?si=wXxxQioD20iuYpLx" frameborder="0" allowfullscreen></iframe>
@@ -64,7 +64,8 @@ export default [
         <br>The goal is to collect items around the map in a limited amount of time to create your build in order to face your opponent at the end of the timer
         and see which build is the best one !
         <br>This project is teaching me a lot on all the aspects of game development, especially game design.
-        <br>Source code is available on <a href="https://github.com/alanhanafi/2D_PlatformAutoBattler" target="_blank">Github</a>.
+        <br>Source code is available on <a href="https://github.com/alanhanafi/2D_PlatformAutoBattler" target="_blank">Github</a>
+        <br>and you can play the prototype <a href="https://alan49.itch.io/2d-platformer-autobattler" target="_blank">here</a>.
     </div>
 
     <div class="paragraph center">
