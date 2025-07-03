@@ -172,8 +172,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-06-30T09:10:50.523Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -195,7 +194,7 @@
               "RelativeDocumentMoniker": "src\\views\\Resume.vue",
               "ToolTip": "C:\\Users\\bigla\\Downloads\\gamedev-portfolio-main\\Portfolio\\src\\views\\Resume.vue",
               "RelativeToolTip": "src\\views\\Resume.vue",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAH4AAAByAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
               "WhenOpened": "2025-06-30T07:27:40.59Z",
               "EditorCaption": ""
@@ -234,8 +233,7 @@
               "RelativeToolTip": "src\\views\\About.vue",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-06-27T15:11:30.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T15:11:30.455Z"
             },
             {
               "$type": "Document",
@@ -247,8 +245,7 @@
               "RelativeToolTip": "src\\views\\Contact.vue",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
-              "WhenOpened": "2025-06-30T09:05:23.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T09:05:23.685Z"
             },
             {
               "$type": "Document",
